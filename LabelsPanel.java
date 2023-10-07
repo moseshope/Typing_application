@@ -1,17 +1,10 @@
-/*
-   Khanh Do
-   CIS 2151 – Prof. John P. Baugh
-   Summer 2016
-   Programming Assignment 3
-*/
-
 import javax.swing.*;
 import java.awt.*;
 
 /**
    The LabelsPanel class creates a panel containing the instructions for the 
    user.
-   @author Khanh Do
+   @author Moseshope
    @version July 27, 2016
 */
 

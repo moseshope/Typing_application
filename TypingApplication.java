@@ -1,10 +1,3 @@
-/*
-   Khanh Do
-   CIS 2151 – Prof. John P. Baugh
-   Summer 2016
-   Programming Assignment 3
-*/
-
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
@@ -13,7 +6,7 @@ import java.awt.event.*;
    The TypingApplication program displays a keyboard on the screen.  When the  
    user hits a key on the physical keyboard, it will highlight the corresponding   
    button on the virtual keyboard.
-   @author Khanh Do
+   @author Moseshope
    @version July 27, 2016
 */
 

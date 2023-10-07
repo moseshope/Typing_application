@@ -1,10 +1,3 @@
-/*
-   Khanh Do
-   CIS 2151 – Prof. John P. Baugh
-   Summer 2016
-   Programming Assignment 3
-*/
-
 import java.awt.*;
 import java.awt.event.KeyEvent;
 import javax.swing.*;
@@ -13,7 +6,7 @@ import java.util.ArrayList;
 /**
    The KeyboardPanel class creates a set of buttons to visually represent the
    keys on a physical keyboard.
-   @author Khanh Do
+   @author Moseshope
    @version July 27, 2016
 */
 
