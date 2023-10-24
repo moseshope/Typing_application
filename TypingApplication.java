@@ -95,16 +95,11 @@ public class TypingApplication extends JFrame
         {
         //did not need this method
         }
-    }//end KeyHandler class
-    
-    /**
-       The main method creates an instance of the TypingApplication class, which
-       causes it to display a keyboard in its window.
-    */
+    }
     
     public static void main(String[] args)
     {
         new TypingApplication();
-    }//end main
+    }
 }
 
